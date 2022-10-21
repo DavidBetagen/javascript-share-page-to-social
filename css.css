@@ -1,0 +1,32 @@
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+button {
+    width: 80px;
+    height: 80px;
+    margin: 5px 2px;
+    font-size: 30px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.7;
+}
+
+.btn-facebook{
+    background: #3B5998;
+}
+
+.btn-line{
+    background: #00c300;
+}
+
+.btn-twitter{
+    background: #55ACEE;
+}
